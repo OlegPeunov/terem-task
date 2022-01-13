@@ -1,1 +1,10 @@
 @import url('./blocks/app/app.css');
+@import url('./blocks/row/row.css');
+@import url('./blocks/card/card.css');
+@import url('./blocks/card/_type/card_type_2to1.css');
+
+#root{
+  background-color: black;
+  
+}
+

@@ -1,0 +1,16 @@
+.card{
+  background-color: aqua;
+  min-height: 200px;
+  flex: 1;
+  min-width: 200px;
+  margin: auto 5px;
+  border: black 1px solid;
+}
+
+@media (max-width: 650px){
+	.card{
+    flex-direction: column;
+    margin-top: 5px;
+	}
+  
+}

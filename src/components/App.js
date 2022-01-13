@@ -1,11 +1,14 @@
-import React from "react";
-import 'bootstrap/dist/css/bootstrap.min.css';
-
+import React from 'react';
+import UpperLine from './UpperLine';
+import MiddleLine from './MiddleLine';
+import LowestLine from './LowestLine';
 
 function App() {
   return (
-    <div className="app">
-      <p>Привет мир</p>
+    <div className='app'>
+      <UpperLine />
+      <MiddleLine />
+      <LowestLine />
     </div>
   );
 }
