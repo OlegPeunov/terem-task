@@ -1,0 +1,19 @@
+.row{
+  padding: 0 5px;
+  display: flex;
+  height: 33.33vh;
+  min-height: 210px;
+}
+
+@media (max-width: 650px){
+	.row{
+    flex-direction: column;
+    height: inherit;
+    padding: 0;
+	}
+
+  .row:last-of-type{
+    padding-bottom: 5px;
+  }
+}
+

@@ -1,0 +1,13 @@
+.textField{
+  width: 970px;
+  min-height: 70x;
+  background-color: #fff;
+  border-radius: 10px;
+	display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 20px 20px;
+  margin: 50px auto 100px auto;
+}

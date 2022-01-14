@@ -1,0 +1,23 @@
+@import url('./__title/card__title.css');
+@import url('./__button/card__button.css');
+@import url('./__button/_color/card__button_color_yellow.css');
+@import url('./__button/_color/card__button_color_green.css');
+
+.card{
+  background-color: #4285F4;
+  min-height: 200px;
+  flex: 1;
+  min-width: 200px;
+  margin: auto 5px;
+  border: black 1px solid;
+  box-sizing: border-box;
+  display: flex;
+}
+
+@media (max-width: 650px){
+	.card{
+    flex-direction: column;
+    margin-top: 5px;
+	}
+  
+}
