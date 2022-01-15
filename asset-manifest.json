@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/OlegPeunov/static/css/main.31927103.css",
+    "main.js": "/OlegPeunov/static/js/main.45895d0c.js",
+    "index.html": "/OlegPeunov/index.html",
+    "static/media/close.svg": "/OlegPeunov/static/media/close.8a65f75d3d836c291cc90c401624d143.svg",
+    "main.31927103.css.map": "/OlegPeunov/static/css/main.31927103.css.map",
+    "main.45895d0c.js.map": "/OlegPeunov/static/js/main.45895d0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31927103.css",
+    "static/js/main.45895d0c.js"
+  ]
+}
