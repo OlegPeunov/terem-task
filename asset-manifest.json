@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/OlegPeunov/static/css/main.0aeab8ef.css",
-    "main.js": "/OlegPeunov/static/js/main.45895d0c.js",
-    "index.html": "/OlegPeunov/index.html",
-    "static/media/close.svg": "/OlegPeunov/static/media/close.8a65f75d3d836c291cc90c401624d143.svg",
-    "main.0aeab8ef.css.map": "/OlegPeunov/static/css/main.0aeab8ef.css.map",
-    "main.45895d0c.js.map": "/OlegPeunov/static/js/main.45895d0c.js.map"
+    "main.css": "./static/css/main.0aeab8ef.css",
+    "main.js": "./static/js/main.b5f26828.js",
+    "index.html": "./index.html",
+    "static/media/close.svg": "./static/media/close.8a65f75d3d836c291cc90c401624d143.svg",
+    "main.0aeab8ef.css.map": "./static/css/main.0aeab8ef.css.map",
+    "main.b5f26828.js.map": "./static/js/main.b5f26828.js.map"
   },
   "entrypoints": [
     "static/css/main.0aeab8ef.css",
-    "static/js/main.45895d0c.js"
+    "static/js/main.b5f26828.js"
   ]
 }
